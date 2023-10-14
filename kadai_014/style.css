@@ -1,0 +1,62 @@
+/* ヘッダーの書式設定 */
+#header{
+      text-align: center;
+      font-family: "Arial", "Meiryo", sans-serif;
+      font-size: 20px;
+    }
+
+/* タイトルの書式設定 */
+.google-fonts,h1{
+  font-family: 'Josefin Sans', sans-serif;
+  letter-spacing: 1.2em;
+  font-size: 40px;
+  text-shadow: 10px;
+  text-align: center;
+  text-shadow: 1px 1px 2px gray;
+}
+
+hr{
+  color: rgb(115, 115, 114);
+
+}
+
+/* ピンク色に変更 */
+.decoration{
+  color: rgb(255, 192, 203);
+}
+
+/* H2書式を太字に */
+h2{
+  font-weight: bold;
+}
+
+/* ピンク色に変更 */
+.pink{
+  color: rgb(255, 192, 203);
+  text-align: center;
+  font-weight: bold;
+}
+
+
+.skyblue{
+  text-align: center;
+  color: skyblue;
+  text-decoration: double;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.sector{
+  color: skyblue;
+  text-align: center;
+}
+
+.center{
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
